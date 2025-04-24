@@ -23,7 +23,4 @@ see the particles in motion.
 # 📷 Screenshots
 ![Screenshot](./screenshot/img1.PNG)
 
-![Screenshot](./screenshot/img2.PNG)
-
-
 This project combines creative interactivity, modern design practices, and smooth performance to deliver a visually captivating and engaging user experience.
